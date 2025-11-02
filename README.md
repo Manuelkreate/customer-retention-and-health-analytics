@@ -81,6 +81,26 @@ A scatter plot classifies products by **TTV (Volume)** and **ACV (Value):**
 
 ---
 
+## Key Insights Summary
+
+1. **Friction and Growth Are Inversely Related**  
+   Service types with the highest friction rates—Lending, Airtime, and Savings—also appear in the lower-left quadrant of the growth matrix (low transaction value, low customer value).  
+   Lower-friction services like Transfers and Bills dominate the upper-right quadrant, suggesting that reducing friction directly supports growth and value creation.
+
+2. **Retention Correlates with Usage Intensity**  
+   Medium and Heavy users show significantly higher retention than Light users. This indicates early engagement and habit formation within the first three months is crucial.
+
+3. **Demographic Sensitivity to Friction**  
+   Younger age groups (as shown in the bar chart) experience higher friction rates, implying UX or onboarding friction specific to their use patterns.
+
+4. **Regional Concentration Risk**  
+   Over 40% of revenue is generated from a single region, highlighting the need for geographic diversification in acquisition efforts.
+
+5. **Operational Priority Areas**  
+   The Friction Action Matrix revealed high-friction clusters around specific service-region pairs. These represent the most urgent targets for technical stabilization to prevent large-scale churn.
+
+---
+
 ## Tech Stack
 - **Power BI** for visualization and modeling  
 - **DAX** for measures and calculated fields  
