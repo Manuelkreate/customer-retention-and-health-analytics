@@ -15,7 +15,7 @@ The analysis provides management with specific, localized actions to increase lo
 ---
 
 ## II. Growth & Monetization Summary
-
+![Growth and Monetization Summary](images/Growth%20and%20Monetization%20Summary.png)
 **Goal:** Deliver an immediate pulse on scale and revenue efficiency.
 
 ### A. Performance Snapshot (Top KPIs)
@@ -46,7 +46,7 @@ A scatter plot classifies products by **TTV (Volume)** and **ACV (Value):**
 ---
 
 ## III. Retention & Health Deep Dive
-
+![Retention and Health Analytics](images/Retention%20and%20Health%20Analytics.png)
 **Goal:** Diagnose loyalty and detect quantifiable churn risks.
 
 ### A. Customer Stickiness & Risk Analysis
@@ -63,7 +63,7 @@ A scatter plot classifies products by **TTV (Volume)** and **ACV (Value):**
 ---
 
 ## IV. Segmentation & Action
-
+![Segmentation and Action](images/Segmentation%20and%20Action.png)
 **Goal:** Translate strategic insights into localized, actionable team priorities.
 
 ### A. Prioritization of Profit and Value
